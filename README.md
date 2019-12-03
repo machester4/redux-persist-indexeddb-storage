@@ -1,5 +1,8 @@
 # Redux persist engine using indexedDB
 
+[![npm version](https://img.shields.io/npm/v/redux-persist-indexeddb-storage.svg?style=flat-square)](https://www.npmjs.com/package/redux-persist-indexeddb-storage)
+[![npm downloads](https://img.shields.io/npm/dt/redux-persist-indexeddb-storage.svg?style=flat-square)](https://www.npmjs.com/package/redux-persist-indexeddb-storage)
+
 This storage can be used only in React
 
 ## install

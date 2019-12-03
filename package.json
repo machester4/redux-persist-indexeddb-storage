@@ -1,0 +1,27 @@
+{
+  "name": "redux-persist-indexeddb-storage",
+  "version": "1.0.0",
+  "description": "Redux Persist storage engine using Indexeddb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machester4/redux-persist-indexeddb-storage.git"
+  },
+  "keywords": [
+    "redux",
+    "redux-persist",
+    "indexeddb"
+  ],
+  "author": "Michael Pintos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/machester4/redux-persist-indexeddb-storage/issues"
+  },
+  "homepage": "https://github.com/machester4/redux-persist-indexeddb-storage#readme",
+  "dependencies": {
+    "localforage": "^1.7.3"
+  }
+}

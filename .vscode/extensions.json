@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "wix.vscode-import-cost",
+    "zignd.html-css-class-completion",
+    "EditorConfig.EditorConfig",
+    "eamodio.gitlens",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "ecmel.vscode-html-css"
+  ]
+}

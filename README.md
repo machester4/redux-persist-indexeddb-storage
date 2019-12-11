@@ -4,7 +4,7 @@
 [![npm dependency](https://img.shields.io/david/machester4/redux-persist-indexeddb-storage?style=flat-square)](https://www.npmjs.com/package/redux-persist-indexeddb-storage)
 [![npm downloads](https://img.shields.io/npm/dt/redux-persist-indexeddb-storage?style=flat-square)](https://www.npmjs.com/package/redux-persist-indexeddb-storage)
 
-This storage can be used only in React, this package use [localForge](https://github.com/localForage/localForage), this uses localStorage in browsers with no IndexedDB or WebSQL support
+This storage can be used only in React, this package use [localForage](https://github.com/localForage/localForage), this uses localStorage in browsers with no IndexedDB or WebSQL support
 
 ## Supported Browsers Platforms
 

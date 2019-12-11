@@ -1,4 +1,4 @@
-import storage from "../";
+import storage from "../dist";
 
 it("Save Data", () => {
   const db = storage("myDb");

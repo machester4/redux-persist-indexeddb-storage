@@ -2,8 +2,9 @@
   "name": "redux-persist-indexeddb-storage",
   "version": "1.0.3",
   "description": "Redux Persist storage engine using Indexeddb",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
+    "build": "babel lib/index.js -d dist",
     "test": "jest --verbose"
   },
   "repository": {
@@ -22,10 +23,13 @@
   },
   "homepage": "https://github.com/machester4/redux-persist-indexeddb-storage#readme",
   "dependencies": {
-    "@babel/plugin-transform-modules-commonjs": "^7.7.4",
     "localforage": "^1.7.3"
   },
   "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "babel-preset-minify": "^0.5.1",
     "jest": "^24.9.0"
   }
 }

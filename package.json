@@ -1,6 +1,6 @@
 {
   "name": "redux-persist-indexeddb-storage",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Redux Persist storage engine using Indexeddb",
   "main": "dist/index.js",
   "scripts": {
